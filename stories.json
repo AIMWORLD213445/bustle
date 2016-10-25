@@ -1,0 +1,15 @@
+{"stories": [{
+  "author": "Jane Doe",
+  "headline": "How to Ember",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/69/Ember.js_Logo_and_Mascot.png",
+  "body": "Lorem ipsum kafsdjlkasdjfl sdlkjlk  sladkfjlksdj lksdjflkjsad losdjfljsad lkjsdaflkj lklkjf   flkjsadklsadj   dsljkfld d d dfjdsjkf ljf dsa jf ds  d fjdslfasdj."
+}, {  "author": "Jane Doe2",
+  "headline": "How to Ember2",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/69/Ember.js_Logo_and_Mascot.png",
+  "body": "Lorem2 ipsum kafsdjlkasdjfl sdlkjlk  sladkfjlksdj lksdjflkjsad losdjfljsad lkjsdaflkj lklkjf   flkjsadklsadj   dsljkfld d d dfjdsjkf ljf dsa jf ds  d fjdslfasdj."
+},{  "author": "Jane Doe3",
+  "headline": "How to Ember3",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/69/Ember.js_Logo_and_Mascot.png",
+  "body": "Lorem3 ipsum kafsdjlkasdjfl sdlkjlk  sladkfjlksdj lksdjflkjsad losdjfljsad lkjsdaflkj lklkjf   flkjsadklsadj   dsljkfld d d dfjdsjkf ljf dsa jf ds  d fjdslfasdj."
+  }]
+}
