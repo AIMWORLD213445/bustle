@@ -1,11 +1,7 @@
-<h1> Welcome to BUSTLE </h1>
+<h1>Welcome to BUSTLE</h1>
 
-<ul>
+<ul >
   {{#each model as |story|}}
      {{story-tile story=story}}
   {{/each}}
 </ul>
-
-{{#link-to 'about'}}About{{/link-to}}
-{{#link-to 'contact'}}Click here to contact us.{{/link-to}}
-{{#link-to 'admin'}}ADMIN ONLY{{/link-to}}
